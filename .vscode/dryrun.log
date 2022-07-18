@@ -1,6 +1,0 @@
-make --dry-run --always-make --keep-going --print-directory
-make: Entering directory `/Users/minsukan/Desktop/42/get_next_line'
-make: Leaving directory `/Users/minsukan/Desktop/42/get_next_line'
- 
-make: *** No targets specified and no makefile found.  Stop.
-
